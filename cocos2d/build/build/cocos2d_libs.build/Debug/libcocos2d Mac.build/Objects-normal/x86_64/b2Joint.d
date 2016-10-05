@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/external/Box2D/Dynamics/Joints/b2Joint.cpp \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Dynamics/Joints/b2Joint.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Common/b2Math.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Common/b2Settings.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Dynamics/Joints/b2DistanceJoint.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Dynamics/Joints/b2WheelJoint.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Dynamics/Joints/b2MouseJoint.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Dynamics/Joints/b2RevoluteJoint.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Dynamics/Joints/b2PrismaticJoint.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Dynamics/Joints/b2PulleyJoint.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Dynamics/Joints/b2GearJoint.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Dynamics/Joints/b2WeldJoint.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Dynamics/Joints/b2FrictionJoint.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Dynamics/Joints/b2RopeJoint.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Dynamics/Joints/b2MotorJoint.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Dynamics/b2Body.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Collision/Shapes/b2Shape.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Common/b2BlockAllocator.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Collision/b2Collision.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Dynamics/b2World.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Common/b2StackAllocator.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Dynamics/b2ContactManager.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Collision/b2BroadPhase.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Collision/b2DynamicTree.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Common/b2GrowableStack.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Dynamics/b2WorldCallbacks.h \
+  /Users/imax/Documents/cocos2d/cocos2d-testing/cocos2d/build/../external/Box2D/Dynamics/b2TimeStep.h
