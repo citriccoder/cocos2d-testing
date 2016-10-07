@@ -19,7 +19,14 @@ bool GraphicsScene::init()
     }
     
     auto sprite = Sprite::create("image.png");
-    sprite->setPosition(0, 0);
+    auto sprite2 = Sprite::create("autobot.png");
+    sprite->setAnchorPoint(Vec2(0.0, 0.0));
+    sprite2->setAnchorPoint(Vec2(0.0, 0.0));
+
+    sprite->addChild(sprite2);
+
+    sprite->setPosition(100, 100);
+    sprite2->setPosition(0, 0);
    
     this->addChild(sprite, 0);
     
